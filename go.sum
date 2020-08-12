@@ -1,0 +1,4 @@
+github.com/yukiz97/go_config v0.0.0-20200812040630-7a070b148ea1 h1:s3S14HrjFRdHpQd/JKzVP7HLr4gtHneJci27q9OcoYs=
+github.com/yukiz97/go_config v0.0.0-20200812040630-7a070b148ea1/go.mod h1:61Gw3omhce20whEG+NFph6bwlkFfXnSudHxd2RX+qhs=
+github.com/yukiz97/go_utils v0.0.0-20200812034343-4af57649f0fd h1:Ky9D4mgJJnj19jGWiNvgtVxdNCYgBELLF9IfoEANPBw=
+github.com/yukiz97/go_utils v0.0.0-20200812034343-4af57649f0fd/go.mod h1:fXiWaJX00Qf8Ppz6Lla7JIPaWZ6QsCg3ciKncNZ8IHA=
